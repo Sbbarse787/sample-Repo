@@ -1,0 +1,11 @@
+We created a virtual environment Matplotlib-env ...
+
+By using command      [virtualenv Matplotlib-env]
+And activating it by using  [Matplotlib-env\Scripts\activate]
+1.installing and importing matplotlib
+
+pip install matplotlib
+&
+1.import matplotlib.pyplot as plt
+   or 
+  from matplotlib import pyplot as plt
